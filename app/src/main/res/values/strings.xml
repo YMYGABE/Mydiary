@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mydiary</string>
+    <string name="defultText">请输入标题</string>
+    <string name="Text_Main">请输入主要内容</string>
+    <string name="Title">我的日记</string>
+    <string name="home">我的</string>
+    <string name="author">请输入作者名</string>
+    <string name="author_sumbit">确认</string>
+</resources>
